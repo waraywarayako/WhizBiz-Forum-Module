@@ -13,7 +13,7 @@ The Whizbiz Business Listing CMS Forum Module where ideas and views on a particu
 - Synchronize Session Login with Whizbiz Script
 - SEO Url Friendly
 
-# Baseon Codeigniter Framework 
+# Base on Codeigniter Framework 
 Is an open-source software rapid development web framework, for use in building dynamic web sites with PHP
 
 # Installation
