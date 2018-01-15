@@ -1,0 +1,198 @@
+forumheader: WaraywarayAko Forum
+forumsubheader: Eastern Visayas Community Forum
+comunity_forum: Comunity Forum
+404errorheader: Opps!, 404 page not found
+404errordesc: Sorry the page you requested does not exist. Please navigate to the other page or search below!
+separate_by_commas: Separate by Commas ( , )
+tags_commas: Tags, Separted by Commas ( , )
+threads_content: Type your threads content
+threads_title:Threads Title
+slug_seo: The slug url must be SEO Friendly i.e <i> my-forum-test-topic</i>
+seo_url: SEO Friendly URL
+post_new_topic_header: Post New Topic on
+reply_topic: Reply to this topic
+no_changes_on_comment: There`s no changes on your comment reply!
+no_changes_on_threads: There`s no changes on your topic!
+upload: Upload
+admin_acc: Admin
+text-admin: text-danger
+business_acc: Business Account
+text-business: text-success
+personal_acc: Personal Account
+text-personal: text-warning
+last_update: modified
+confirm_delete: Confirm Delete
+confirm_delete_text: Are you sure you want to delete this reply? Once you confirm you`ll never recover this reply!
+confirm_delete_text_post: Are you sure you want to delete this threads? Once you confirm you`ll never recover this reply!
+delete: Delete
+cancel: Cancel
+confirmdelete: You successfully deleted your reply!
+confirmdeletepost: You successfully deleted your post!
+load_more: Load More Result
+no_reply: No Reply
+comment_on: commented in
+posted on: posted on
+topic_is_locked: This topic is locked and you cannot add new comment
+topic_contains: This topic contains
+reply_posted: replies and was posted by
+pin_post: Pin Post
+unpin_post: Unpin Post
+lock_post: Lock Post
+unlock_post: Unlock Post
+confirm_pinpost: Confirmed Pin Topic Post
+confirm_unpinpost: Confirmed Unpin Topic Post
+confirm_lockpost: Confirmed Lock Topic Post
+confirm_unlockpost: Confirmed Unlock Topic Post
+confirm_pin_post: Are you sure you want to <b>Pin</b> this topic?
+confirm_unpin_post: Are you sure you want to <b>Unpin</b> this topic?
+confirm_lock_post: Are you sure you want to <b>Lock</b> this topic?
+confirm_unlock_post: Are you sure you want to <b>Unlock</b> this topic?
+confirmpinpost: You`ve successfully <b>Pin</b> this post!
+confirmunpinpost: You`ve successfully <b>Unpin</b> this post!
+confirmlockpost: You`ve successfully <b>Lock</b> this post!
+confirmunlockpost: You`ve successfully <b>Unlock</b> this post!
+search_result: Search result of
+search_blank: Search Topic Threads
+search_description: Let discuss about our region
+no_result_found: No Result found on 
+you_are_searching: You are looking for
+with_total_result: with a total result of
+no_posts: Opps! No data found
+only_admin_can_create_topic: Only the Website Administrator are allowed to create topic on this Category
+copyright_footer: Copyright &copy; waraywarayako.ph 2017
+agree_terms: By clicking <strong class="text-success">Register</strong>, that means you agree our terms and conditions
+
+
+topic_success: Your Topic has been submited
+topic_successsub: If you`re topic/threads does not follow one of the mentioned rules, the topic will be corrected to meet Website standards. Topic/threads that have broken too many of the rules will be removed and it might cause of your account to be ban. 
+note: Note
+okgot_it: Ok, I got it!
+
+reply_submited: Your topic reply has been submited
+welcome_user: Welcome,&nbsp;
+pagination_noresult: <strong>Opps!</strong> please navigate properly or this topic does not contain any reply.
+saveeditreply_success: You just sucessfully edited your reply!
+saveedittopic_success: You just sucessfully edited your topic!
+create_acc: Create new account
+create_thread: Create new threads
+register: Register
+yes_register: Yes please, register now!
+recover_acc: Recover your account!
+fb_aut:Sign in with Facebook
+google_aut: Sign in with Google
+login: Login
+logout: Logout
+settings: Settings
+home: Home
+new_topic: New Topic
+topic_post: Topic Post
+create_new_topic: Create new Topic
+create_threads: Create Threads
+edit_your_reply: Edit your Reply
+save_edit_reply: Save Reply
+save_edit_threads: Save Threads
+edit_your_threads: Edit your threads
+reply_post: Reply Post
+close: Close
+author: Author
+topic: Topic
+comment: Comment
+views: Views
+post: Post
+ago: Ago
+reply: Replies
+latest_reply: Latest Reply
+no_topic_result: No topic on this category
+started_by: Started By
+search: Search
+myreply: Reply
+nopermission: <strong>Opps!</strong> You don`t have permission, please bear in mind that hacking is a crime!
+my_listing: Listing
+
+ive_read_the: I've read the
+terms_and_conditions: Terms and Condition
+register_success: Your registration is complete, please check your email to activate your account.
+
+first_name: First Name
+last_name: Last Name
+email: Email Address
+gender: Gender
+company_name: Company Name
+phone: Phone No.
+choose_gender: - Choose Gender -
+male: Male
+female: Female
+username: Username
+password: Password
+retype_password: Retype Password
+repassword_error: Whoops, Password and Confirm Password don't match
+social_login: Social Login
+
+
+banned_acc: Your account is <strong>BANNED</strong>!
+notconfirmed: Your account is not yet <strong>Confirmed</strong>, please check your email for the validation link.
+incorrectuser: Opps! Its either your Email Address or Password did not match or incorrect or maybe doesn`t exist.
+login_success: You`ve successfuly login.
+logout_success: You`ve successfuly logout
+you_must_login: You must be logged in to reply to this topic..
+business_name: Business name
+rating: Ratings
+email_not_shared: Opps! Facebook Email not shared!
+
+
+
+category: Category
+sub_category: Sub Category
+recover: Recover
+resend_confirmation: Resend account comfirmation!
+reset_password: Recovery link has been sent to your email!
+email_not_matched: Email address does not exist
+resend: Resend Confirmation Key
+resend_btn: Resend
+alread_haveacc: I already have account, login now!
+isconfirmed: Account is already <strong>Confirmed</strong>!
+resend_confirm_key: Your confirmation key has been resend.
+leave_it_blank: Leave blank if no change needed
+check_to_hide: Check if you want to hide
+about_me: About Me
+social_warning: Please enter the link, without http//
+fb_profile: Facebook Profile
+tw_profile: Twitter Profile
+link_profile: Linkedin Profile
+google_profile: Google+ Profile
+update_profile: Update Profile
+
+community-faqs: Community Faqs
+introductions: Introductions
+travel-companions: Travel Companions
+travel-booking: Travel Tour Booking
+reviews-feedback: Reviews & Feedback
+hotel-resorts: Hotel & Resorts
+food-dinning: Food & Dinning
+delicacies: Delicacies
+tourist-attraction: Tourist Attraction
+miscellaneous-travel: Miscellaneous Travel
+travel-destinations: Travel Destinations
+reviews-feedback: Reviews & Feedback
+leyte: Leyte
+southern-leyte: Southern Leyte
+biliran: Biliran
+samar: Samar
+eastern-samar: Eastern Samar
+nothern-samar: Nothern Samar
+relationship: Relationship
+family-matters: Family Matters
+lovelife-matters: Lovelife Matters
+fitness-health: Fitness & Health
+arts-literature: Arts & Literature
+siday-poem-fiction: Siday/Poem and Fiction
+humor: Humor
+marketplace: Marketplace
+buy-and-sell: Buy & Sell
+rental: Rental Items
+featured_listing: featured listing
+latest_topic: latest topic
+profile: Profile
+listing: Add Listing
+user_updated: User Profile Updated
+signature: Forum Signature
