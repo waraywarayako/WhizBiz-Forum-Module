@@ -29,16 +29,3 @@ https://www.waraywarayako.ph
 
 https://forum.waraywarayako.ph/
 
-
-Add .htaccess file
---------------------
-
-.htaccess is a configuration file for use on web servers running the Apache Web Server software. When a .htaccess file is placed in a directory which is in turn 'loaded via the Apache Web Server', then the .htaccess file is detected and executed by the Apache Web Server software. These .htaccess files can be used to alter the configuration of the Apache Web Server software to enable/disable additional functionality and features that the Apache Web Server software has to offer. These facilities include basic redirect functionality, for instance if a 404 file not found error occurs, or for more advanced functions such as content password protection or image hot link prevention.
-
-Write this codes below:
-
-	- RewriteEngine On
-	- RewriteCond %{REQUEST_FILENAME} !-f
-	- RewriteCond %{REQUEST_FILENAME} !-d
-	- RewriteRule ^(.*)$ index.php/$1 [L]
-
