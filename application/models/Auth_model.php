@@ -217,16 +217,11 @@ class Auth_model extends CI_Model
 				curl_setopt ($ch, CURLOPT_RETURNTRANSFER, 1);
 				$data = curl_exec($ch);
 				curl_close($ch);
-				if(get_settings('forum_settings','use_ssl','')!='No'){
-					$forum_link='https://'.get_settings('forum_settings','main_domain','');
-				}else{
-					$forum_link='http://'.get_settings('forum_settings','main_domain','');
-				}
-				$fileName = $forum_link.'/uploads/profile_photos/'.$tmp_username.'.jpg';
+				$fileName = '../uploads/profile_photos/'.$tmp_username.'.jpg';
 				$file = fopen($fileName, 'w+');
 				fputs($file, $data);
 				fclose($file);
-				$fileName = $forum_link.'/uploads/profile_photos/thumb/'.$tmp_username.'.jpg';
+				$fileName = '../uploads/profile_photos/thumb/'.$tmp_username.'.jpg';
 				$file = fopen($fileName, 'w+');
 				fputs($file, $data);
 				fclose($file);
